@@ -39,7 +39,7 @@ This project is an **AI-powered FAQ Chatbot** built for the CodeAlpha Artificial
 
 ### 1. Clone the repo
 bash
-git clone https://github.com/yourusername/CodeAlpha_FAQ_Chatbot.git
+git clone https://github.com/wonderrful003/CodeAlpha_FAQ_Chatbot.git
 cd CodeAlpha_FAQ_Chatbot
 
 2. Create and activate a virtual environment
