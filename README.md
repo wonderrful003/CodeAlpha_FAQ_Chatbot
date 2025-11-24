@@ -1,4 +1,3 @@
-3. README.md (Cleaned & Properly Formatted)
 # AI-Powered FAQ Chatbot - CodeAlpha Internship Project
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
